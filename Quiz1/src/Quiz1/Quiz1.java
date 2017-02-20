@@ -24,7 +24,4 @@ public class Quiz1 {
 		double QB = ((a+b+c+d)/6)*100;
 		System.out.println(QB);
 	}
-
-
-
 }
