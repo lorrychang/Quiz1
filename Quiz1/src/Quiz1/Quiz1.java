@@ -20,7 +20,6 @@ public class Quiz1 {
 		double b = (YDS/ATT -3)*0.25;
 		double c = (TD/ATT)*20;
 		double d = 2.375 - ((INT/ATT) *25);
-		
 		double QB = ((a+b+c+d)/6)*100;
 		System.out.println(QB);
 	}
